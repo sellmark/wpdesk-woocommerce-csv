@@ -2,8 +2,8 @@
 	"name": "wpdesk/wp-desk-woocommerce-export",
 	"authors": [
 		{
-			"name": "Krzysiek",
-			"email": "krzysiek@wpdesk.net"
+			"name": "Marek Buga",
+			"email": "mbuga@wpdesk.net"
 		}
 	],
 	"autoload": {
@@ -43,7 +43,7 @@
 		"text-domain": "wp-desk-woocommerce-export",
 		"translations-folder": "lang",
 		"translation-file-headers": {
-			"Project-Id-Version": "Plugin Template",
+			"Project-Id-Version": "WP Desk WooCommerce To Excel",
 			"Last-Translator": "Grzegorz Rola <grola@wpdesk.pl>",
 			"X-Poedit-WPHeader": "wp-desk-woocommerce-export.php"
 		},
